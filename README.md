@@ -23,17 +23,6 @@ Web development in JAVA
 
 
 
-### Spring 
-Application properties
-> server.port=8086
-> logging.level.com.udacity.jdnd.course1exercises=DEBUG
-> spring.datasource.username=superman
-> spring.datasource.password=FishTacos1234
-> spring.thymeleaf.cache=true
-> spring.devtools.remote.restart.enabled=true
->
-
-
 ## Spring MVC related
 | Theme      | uRL | Comments     |
 | :---        |    :----:   |          ---: |
