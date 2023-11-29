@@ -1,7 +1,7 @@
 # JavaDoc
 Web development in JAVA
 
-## Spring related
+## Spring JAVA basics related
 
 ### HTTP
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages
@@ -48,6 +48,27 @@ Application properties
 ### Spring annotations
 https://docs.spring.io/spring-framework/docs/4.3.27.RELEASE/spring-framework-reference/htmlsingle/#beans-annotation-config
 
+
+## Spring MVC related
+| Theme      | Description | Url     |
+| :---        |    :----:   |          ---: |
+|  Thymeleaf   |  https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html           |               |
+|  Serving content            | https://spring.io/guides/gs/serving-web-content/            |               |
+|  MVC MVVM,MV            | https://uniandes-se4ma.gitlab.io/books/chapter8/mvc-mvvm-mv-mvwhat.html            |               |
+|   Thymeleaf expression           |https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#standard-expression-syntax             |               |
+|  Spring Expression Language            | https://docs.spring.io/spring-framework/docs/4.3.10.RELEASE/spring-framework-reference/html/expressions.html            |               |
+|   MVC           |  https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html           |               |
+|   File upload           | https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/multipart/MultipartFile.html            |               |
+|     Spring file upload                    | https://spring.io/guides/gs/uploading-files/                          |
+|                         |                           |
+
+
+
+## Introduction to persistence Batis
+| Theme      |  Url     |
+| :---        |    ---: |
+|                         |                           | 
+|                         |                           |
 
 
 
