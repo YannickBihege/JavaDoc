@@ -7,25 +7,17 @@ Web development in JAVA
 | HTTP   | https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages     |               |
 | Java EE   | https://javaee.github.io/tutorial/overview005.html#BNABO     |               |
 | Java SERVLET   |https://javaee.github.io/tutorial/servlets.html#BNAFD      |               |
-| Java SE   |https://docs.oracle.com/en/java/javase/13/docs/api/java.base/java/util/jar/package-summary.html
-      |               |
-| Packaging   | https://javaee.github.io/tutorial/packaging003.html#BCGHAHGD
-     |               |
-| IOC   |https://www.youtube.com/watch?v=vFzP2SaMyA0
-      |               |
-| IOC Fowler   | https://www.martinfowler.com/articles/injection.html
-     |               |
+| Java SE   |https://docs.oracle.com/en/java/javase/13/docs/api/java.base/java/util/jar/package-summary.html|               |
+| Packaging   | https://javaee.github.io/tutorial/packaging003.html#BCGHAHGD|               |
+| IOC   |https://www.youtube.com/watch?v=vFzP2SaMyA0|               |
+| IOC Fowler   | https://www.martinfowler.com/articles/injection.html|               |
 | Spring Overview   | https://spring.io/     |               |
 | Sprint init   | https://start.spring.io/     |               |
-|  Deploy a war file  | https://docs.spring.io/spring-boot/docs/1.2.0.M2/reference/html/howto-traditional-deployment.html
-     |               |
-|  Hibernate files  | https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html#mapping-types
-     |               |
+|  Deploy a war file  | https://docs.spring.io/spring-boot/docs/1.2.0.M2/reference/html/howto-traditional-deployment.html |               |
+|  Hibernate files  | https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html#mapping-types|               |
 | Spring annotations   | https://docs.spring.io/spring-framework/reference/core/beans.html     |               |
-|  Spring annotation config  |https://docs.spring.io/spring-framework/reference/core/beans/annotation-config.html
-      |               |
-|  Spring IOC  |  https://docs.spring.io/spring-framework/reference/core/beans.html
-    |               |
+|  Spring annotation config  |https://docs.spring.io/spring-framework/reference/core/beans/annotation-config.html|               |
+|  Spring IOC  |  https://docs.spring.io/spring-framework/reference/core/beans.html|               |
 | Spring annotations config  | https://docs.spring.io/spring-framework/docs/4.3.27.RELEASE/spring-framework-reference/htmlsingle/#beans-annotation-config    |               |
 |   |     |               |
 
