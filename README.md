@@ -46,6 +46,7 @@ Web development in JAVA
 |  Hibernate  |  https://hibernate.org/orm/what-is-an-orm/  |               |
 |   Batis article example | https://medium.com/@hsvdahiya/mybatis-annotations-result-mapping-spring-79944ff74b84  |               |
 |   mybatis |   https://mybatis.org/mybatis-3/java-api.html   |               |
+|Hibernate association rules |https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html#associations| |
 
 
 ## Introduction to Junit and testing 
