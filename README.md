@@ -48,7 +48,7 @@ Web development in JAVA
 |   mybatis |   https://mybatis.org/mybatis-3/java-api.html   |               |
 
 
-## Introduction to Junit and testting 
+## Introduction to Junit and testing 
 | Theme      | uRL | Comments     |
 | :---        |    :----:   |          ---: |
 | Junit user guide   | https://junit.org/junit5/docs/current/user-guide/         |               |
