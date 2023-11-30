@@ -1,4 +1,4 @@
-# JavaDoc
+# Documentation
 Web development in JAVA
 
 ## Spring JAVA basics related
