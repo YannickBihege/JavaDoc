@@ -25,7 +25,7 @@ Web development in JAVA
 
 ## Spring MVC related
 | Theme      | uRL | Comments     |
-| :---        |    :----:   |          ---: |
+| :---        |    :----   |          ---: |
 |  Thymeleaf   |  https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html           |               |
 |  Serving content            | https://spring.io/guides/gs/serving-web-content/            |               |
 |  MVC MVVM,MV            | https://uniandes-se4ma.gitlab.io/books/chapter8/mvc-mvvm-mv-mvwhat.html            |               |
