@@ -40,7 +40,6 @@ Web development in JAVA
 | Theme      | uRL | Comments     |
 | :---        |    :----:   |          ---: |
 |  Thymeleaf   |  https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html           |               |
-
 | Batis   |  https://mybatis.org/mybatis-3/index.html          |               |
 |  ORM paper  | https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.457.1205&rep=rep1&type=pdf           |               |
 |  Oracle Jdbc Tutorial  |  https://docs.oracle.com/javase/tutorial/jdbc/overview/index.html          |               |
