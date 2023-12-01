@@ -19,7 +19,7 @@ Web development in JAVA
 |  Spring annotation config  |https://docs.spring.io/spring-framework/reference/core/beans/annotation-config.html|               |
 |  Spring IOC  |  https://docs.spring.io/spring-framework/reference/core/beans.html|               |
 | Spring annotations config  | https://docs.spring.io/spring-framework/docs/4.3.27.RELEASE/spring-framework-reference/htmlsingle/#beans-annotation-config    |               |
-|   |     |               |
+| Eclipse IDE  | https://www.vogella.com/tutorials/eclipseide.html    | Eclipse as alternative to IntelliJ: an introduction              |
 
 
 
