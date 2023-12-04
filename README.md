@@ -3,7 +3,7 @@ Web development in JAVA
 
 ## Spring JAVA basics related
 | Theme      | uRL | Comments     |
-| :---        |    :----:   |          ---: |
+| :---        |    :----   |          ---: |
 | HTTP   | https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages     |               |
 | Java EE   | https://javaee.github.io/tutorial/overview005.html#BNABO     |               |
 | Java SERVLET   |https://javaee.github.io/tutorial/servlets.html#BNAFD      |               |
@@ -42,7 +42,7 @@ Web development in JAVA
 
 ## Introduction to persistence 
 | Theme      | uRL | Comments     |
-| :---        |    :----:   |          ---: |
+| :---        |    :----   |          ---: |
 |  Thymeleaf   |  https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html  |               |
 | Batis   |  https://mybatis.org/mybatis-3/index.html  |               |
 |  ORM paper  | https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.457.1205&rep=rep1&type=pdf |               |
@@ -57,7 +57,7 @@ Web development in JAVA
 
 ## Introduction to Junit and testing 
 | Theme      | uRL | Comments     |
-| :---        |    :----:   |          ---: |
+| :---        |    :----   |          ---: |
 | Junit user guide   | https://junit.org/junit5/docs/current/user-guide/         |               |
 |  Lambda expression  |https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html          |               |
 | Intellij J Test features   |https://www.jetbrains.com/help/idea/performing-tests.html          |               |
