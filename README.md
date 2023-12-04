@@ -20,6 +20,10 @@ Web development in JAVA
 |  Spring IOC  |  https://docs.spring.io/spring-framework/reference/core/beans.html|               |
 | Spring annotations config  | https://docs.spring.io/spring-framework/docs/4.3.27.RELEASE/spring-framework-reference/htmlsingle/#beans-annotation-config    |               |
 | Eclipse IDE  | https://www.vogella.com/tutorials/eclipseide.html    | Eclipse as alternative to IntelliJ: an introduction              |
+|Java virtual Machine  | https://docs.oracle.com/en/java/javase/15/vm/java-hotspot-virtual-machine-performance-enhancements.html#GUID-3BB4C26F-6DE7-4299-9329-A3E02620D50A  |    |
+|Java Platform standard edition  | https://docs.oracle.com/javacomponents/jrockit-hotspot/migration-guide/comp-opt.htm#JRHMG117  |    |
+|  |   |    |
+|  |   |    |
 
 
 
