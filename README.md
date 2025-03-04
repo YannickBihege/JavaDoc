@@ -48,7 +48,6 @@ Web development in JAVA
 |  ORM paper  | https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.457.1205&rep=rep1&type=pdf |               |
 |  Oracle Jdbc Tutorial  |  https://docs.oracle.com/javase/tutorial/jdbc/overview/index.html |               |
 |  Hibernate  |  https://hibernate.org/orm/what-is-an-orm/  |               |
-|   Batis article example | https://medium.com/@hsvdahiya/mybatis-annotations-result-mapping-spring-79944ff74b84  |               |
 |   mybatis |   https://mybatis.org/mybatis-3/java-api.html   |               |
 |Hibernate association rules |https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html#associations| |
 |Hibernate inheritance |https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html#entity-inheritance| |
