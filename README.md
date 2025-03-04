@@ -23,7 +23,6 @@ Web development in JAVA
 |Java virtual Machine  | https://docs.oracle.com/en/java/javase/15/vm/java-hotspot-virtual-machine-performance-enhancements.html#GUID-3BB4C26F-6DE7-4299-9329-A3E02620D50A  |    |
 |Java Platform standard edition  | https://docs.oracle.com/javacomponents/jrockit-hotspot/migration-guide/comp-opt.htm#JRHMG117  |    |
 |  |   |    |
-|  |   |    |
 
 
 
